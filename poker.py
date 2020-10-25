@@ -1,5 +1,4 @@
 CARDS = ['2', '3', '4', '5', '6', '7', '8', '9', 'T', 'J', 'Q', 'K', 'A']
-SUITS = ['D', 'H', 'S', 'C']
 COMBINATIONS = ['High card', 'Pair', 'Two pairs', 'Three of a kind', 'Straight',
                 'Flush', 'Full house', 'Four of a kind', 'Straight flush', 'Royal flush']
 
